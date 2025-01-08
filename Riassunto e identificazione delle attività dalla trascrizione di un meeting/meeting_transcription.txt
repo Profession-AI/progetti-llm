@@ -1,0 +1,32 @@
+Mario Rossi: Buongiorno a tutti. Come sapete, siamo qui per discutere i requisiti del nuovo sistema contabile. Rossana, potresti iniziare spiegandoci le principali necessità dal punto di vista dell’utente?
+
+Rossana Bolletta: Certo, Mario. Attualmente il nostro sistema è molto macchinoso. Abbiamo bisogno di un'interfaccia più intuitiva per l’inserimento delle fatture, una gestione automatizzata delle scadenze dei pagamenti e una reportistica personalizzabile.
+
+Mario Rossi: Capisco. Quando parli di reportistica personalizzabile, intendi la possibilità di scegliere i parametri da analizzare, come intervalli di tempo o categorie di spesa?
+
+Rossana Bolletta: Esatto. Al momento siamo costretti a estrarre i dati e modificarli manualmente in Excel. Sarebbe ideale poter generare i report direttamente dal sistema, filtrando secondo le nostre esigenze.
+
+Andrea Monti: Questo implica la necessità di un modulo dedicato ai filtri e ai grafici. Inoltre, per l’automazione delle scadenze, immagino servano notifiche o promemoria?
+
+Rossana Bolletta: Sì, promemoria per le scadenze delle fatture sarebbe perfetto. Sarebbe utile anche poter inviare email automatiche ai fornitori in caso di ritardi nei pagamenti.
+
+Mario Rossi: Andrea, possiamo integrare un sistema di notifiche e invio email nella piattaforma?
+
+Andrea Monti: Sì, non è un problema. Potremmo utilizzare una libreria per la gestione delle notifiche e configurare un server SMTP per l’invio delle email. Rossana, ci sono altre funzioni che ritieni essenziali?
+
+Rossana Bolletta: Sì, una cosa che ci manca è un’archiviazione digitale dei documenti. Sarebbe utile poter allegare PDF delle fatture direttamente nel sistema.
+
+Mario Rossi: Andrea, puoi prendere nota di questo. Avremo bisogno di uno spazio di storage e di una gestione documentale.
+
+Andrea Monti: Certo. Pensavo di utilizzare un servizio cloud come base per l’archiviazione. Potremmo implementare una funzione di ricerca avanzata per trovare rapidamente i documenti.
+
+Mario Rossi: Bene, mi sembra che abbiamo un quadro chiaro delle necessità. Rossana, c'è altro che vorresti aggiungere?
+
+Rossana Bolletta: No, credo di aver elencato tutto. Grazie per aver ascoltato le nostre esigenze.
+
+Mario Rossi: Perfetto. Andrea, ti occupi di redigere un piano tecnico basato sui requisiti emersi. Poi faremo un altro incontro per approvare il progetto definitivo.
+
+Andrea Monti: Va bene, mi metto subito al lavoro.
+
+Mario Rossi: Grazie a tutti per la partecipazione. Buona giornata!
+
