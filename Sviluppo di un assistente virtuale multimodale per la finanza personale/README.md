@@ -1,4 +1,4 @@
-# Progetto: Sviluppo di un Assistente Virtuale Multimodale per la Finanza Personale
+# Sviluppo di un Assistente Virtuale Multimodale per la Finanza Personale
 
 ## Contesto Aziendale
 In un mondo sempre più digitale, la gestione delle finanze personali può essere resa più accessibile e interattiva grazie all'uso di tecnologie avanzate. Un assistente virtuale multimodale può supportare gli utenti nella gestione del loro budget, fornire analisi finanziarie e suggerire strategie personalizzate attraverso un'interazione naturale e intuitiva.
