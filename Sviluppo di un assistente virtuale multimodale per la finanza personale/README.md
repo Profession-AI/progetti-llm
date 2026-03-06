@@ -35,3 +35,7 @@ L'assistente virtuale sarà sviluppato utilizzando Python e integrerà almeno un
 
 ## Conclusione
 Questo progetto rappresenta un'opportunità unica per applicare tecnologie avanzate a un problema reale, fornendo valore sia agli utenti finali che all'azienda che implementa il sistema. Gli studenti acquisiranno esperienza pratica con strumenti all'avanguardia nel campo dell'intelligenza artificiale e dello sviluppo software.
+
+# Note per la consegna
+
+Non è necessario specificare all'interno del notebook la chiave API o il token Huggingface (se richiesti). L'importante è che le celle siano eseguite e che l'output sia ben visibile.

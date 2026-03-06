@@ -49,4 +49,6 @@ Realizzare uno script in Python che:
   - I risultati ottenuti.
   - Le eventuali limitazioni del sistema.
 
+# Note per la consegna
 
+Non è necessario specificare all'interno del notebook la chiave API o il token Huggingface (se richiesti). L'importante è che le celle siano eseguite e che l'output sia ben visibile.

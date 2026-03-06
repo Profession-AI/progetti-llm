@@ -83,3 +83,8 @@ Il progetto comprende le seguenti aree funzionali ad alto livello:
 - Riduzione dei rischi legati a informazioni non aggiornate o non tracciate.
 - Miglioramento della qualità del servizio interno e dell’esperienza dei dipendenti.
 - Potenziale per trasformare il progetto in un prodotto interno riutilizzabile per altri team o per clienti.
+
+
+# Note per la consegna
+
+Non è necessario specificare all'interno del notebook la chiave API o il token Huggingface (se richiesti). L'importante è che le celle siano eseguite e che l'output sia ben visibile.
