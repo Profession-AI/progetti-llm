@@ -87,4 +87,4 @@ Il progetto comprende le seguenti aree funzionali ad alto livello:
 
 # Note per la consegna
 
-Non è necessario specificare all'interno del notebook la chiave API o il token Huggingface (se richiesti). L'importante è che le celle siano eseguite e che l'output sia ben visibile.
+Non è necessario specificare all'interno del notebook la chiave API o il token Huggingface (se richiesti). 
